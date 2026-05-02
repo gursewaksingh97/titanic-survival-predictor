@@ -6,7 +6,7 @@ A Machine Learning powered Streamlit web app that predicts whether a passenger w
 
 ## 🔗 Live Demo
 
-👉 https://yourapp.streamlit.app
+👉 [https://yourapp.streamlit.app](https://titanic-survival-predictorr.streamlit.app/)
 
 ---
 
